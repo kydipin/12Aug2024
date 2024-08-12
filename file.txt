@@ -2,4 +2,4 @@ First Commit
 Added second line from master branch
 line 2 from feature branch 
 Kept both changes 
-
+New change from Git hub

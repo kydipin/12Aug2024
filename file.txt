@@ -1,2 +1,5 @@
 First Commit
-added second line from master branch
+Added second line from master branch
+line 2 from feature branch 
+Kept both changes 
+
